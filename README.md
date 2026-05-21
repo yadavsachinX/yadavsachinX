@@ -29,11 +29,6 @@ Embedded Systems • IoT • Digital Design • VLSI • Edge AI
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
-
 ## 🌌 Fun Zone
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Embedded+Systems+Developer;ESP32+%7C+FPGA+%7C+VLSI;Building+AI+on+Edge+Devices)](https://git.io/typing-svg)
